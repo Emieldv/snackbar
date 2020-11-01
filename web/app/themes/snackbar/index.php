@@ -7,7 +7,6 @@
 	<?php wp_head(); ?>
 </head>
 <body>
-	<h1>Snackbar Headless Theme</h1>
 	<?php wp_footer(); ?>
 </body>
 </html>
